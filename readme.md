@@ -8,6 +8,15 @@ geometry: "margin=1.5cm"
 bookCollapseSection: true
 ---
 
+## Formalités
+
+- listes, appel
+- Professeurs principaux M. Pellion (Philosophie), M. Konieczko (Maths & NSI)
+- Documents :
+  - emploi du temps,
+  - carnets,
+  - photographie (10h30)
+
 ## Calendrier de l'orientation
 
 2021-2022 mais ça ne devrait pas trop changer...
@@ -60,7 +69,7 @@ Les disciplines du tronc commun n'ont généralement pas d'épreuve terminale.
 | ÉPREUVES    | NATURES  | DURÉES   | COEF. | DATE    |
 | ----------- | -------- | -------- | ----- | ------- |
 | Français    | Écrit    | 4h       | 5     | Juin 22 |
-|             | Oral     | 20mn     | 5     |
+|             | Oral     | 20mn     | 5     | Juin 22 |
 | Spécialités | variable | variable | 16    | Mars 23 |
 | Philosophie | Écrit    | 4h       | 8     | Juin 23 |
 | Grand oral  | Oral     | 20mn     | 10    | Juin 23 |
@@ -90,5 +99,38 @@ Certains établissements ne sont pas référencés sur Parcoursup et vous pourri
 
 1h en quinzaine et en demi-groupe.
 
-* Le jeudi pour le groupe 2 avec M. Pellion,
-* Le vendredi pour le groupe 1 avec M. Konieczko
+- Le jeudi pour le groupe 2 avec M. Pellion,
+- Le vendredi pour le groupe 1 avec M. Konieczko
+
+## Classroom pour le groupe 1
+
+- [Classroom](https://classroom.google.com/c/NTQ0MzY3NzIwODE3)
+
+## Ressources
+
+- [Terminale 21 22](https://www.terminales2021-2022.fr/)
+- ![CIO d'Hazebrouck](img/CIO_hazebrouck.png)
+
+  [CIO d'Hazebrouck](https://www1.ac-lille.fr/centre-d-information-et-d-orientation-site-d-hazebrouck-121510)
+
+  - Code RNE : 0590292x
+  - Adresse : 9, rue d'Aire - 59190 HAZEBROUCK
+  - Tél. : 03.28.43.79.59
+  - email : cio.hazebrouck@ac-lille.fr
+
+  - Directrice : Madame O. BOUTELIER
+
+  - Padlet du CIO de Dunkerque-Flandres : ressources d'informations et liens utiles pour les usagers
+
+  - Permanences d'accueil
+
+    _Période scolaire_ :
+    Du lundi au vendredi : de 8h30 à 12h et de 13h30 à 17h30
+    Le samedi : de 9h à 12h
+
+    _Hors période scolaire_
+    Du lundi au vendredi : de 9h à 12h et de 13h30 à 16h30
+    Fermé le samedi
+
+- [Brochure ParcourSup en trois étapes](./ressources/Brochure_Parcoursup_2022_en_3_etapes.pdf)
+- [Diaporama ParcourSup en trois étapes](./ressources/Diaporama_Parcoursup-2022_en_3_etapes.pptx)
