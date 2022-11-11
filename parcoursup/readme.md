@@ -136,7 +136,7 @@ Enfin, à partir du 2 juillet, le CAES accompagne les candidats en phase complé
 
 ## Résumé vidéo
 
-[Sur Youtube](https://www.youtube.com/embed/AdCpjZEuod4)
+[Sur Youtube](https://www.youtube.com/watch?v=AdCpjZEuod4)
 
 ## Entretien personnalisé
 
