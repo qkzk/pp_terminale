@@ -136,7 +136,7 @@ Enfin, à partir du 2 juillet, le CAES accompagne les candidats en phase complé
 
 ## Résumé vidéo
 
-<iframe width="733" height="412" src="https://www.youtube.com/embed/AdCpjZEuod4" title="TOUT COMPRENDRE DE PARCOURSUP 2022 ! 🎓✨" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Sur Youtube](https://www.youtube.com/embed/AdCpjZEuod4)
 
 ## Entretien personnalisé
 
