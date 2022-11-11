@@ -1,6 +1,6 @@
 # Parcoursup
 
-# Calendrier résumé
+# Date clés
 
 - 20 décembre 2022 : ouverture du site d'information parcoursup.fr avec le moteur de recherche des formations ;
 - 18 janvier 2023 : ouverture de la plateforme Parcoursup et formulation des vœux (10 vœux maximum) ;
@@ -134,7 +134,7 @@ Rappel : vous ne pouvez accepter qu'une seule proposition d'admission à la fois
 
 Enfin, à partir du 2 juillet, le CAES accompagne les candidats en phase complémentaire. Après l'examen de la rubrique "Ma préférence", la commission suggère des formations cohérentes par rapport aux critères et aux intérêts des candidats. Raison de plus pour compléter cette rubrique consciencieusement !
 
-## Résumé vidéo
+# Résumé vidéo
 
 [Sur Youtube](https://www.youtube.com/watch?v=AdCpjZEuod4)
 
@@ -163,8 +163,6 @@ Enfin, à partir du 2 juillet, le CAES accompagne les candidats en phase complé
 
 1. Juste après l’entretien, reportez les idées et les conseils qui ont été évoqués lors de l’entretien.
 2. Planifiez les démarches qu’il vous reste à faire et notez sur votre agenda la date du prochain rendez-vous.
-
-## Décembre
 
 # Comment s'inscrire sur Parcoursup ?
 
